@@ -10,7 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" rel="stylesheet">
     
     <!-- Custom CSS -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="app/globals.css" rel="stylesheet">
     
     <!-- QR Code Library -->
     <script src="https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js"></script>
@@ -128,6 +128,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     
     <!-- Custom JS -->
-    <script src="assets/js/restaurant-system.js"></script>
+    <script src="js/restaurant-system.js"></script>
 </body>
 </html>
